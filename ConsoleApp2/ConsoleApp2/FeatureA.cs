@@ -10,11 +10,10 @@ namespace ConsoleApp2
     class FeatureA
     {
         
-        public int Sum()
+        public int Sum(int x =1, int y =1)
         {
-            int x = 1;
-            int y = 1;
-            int sum = x + y;
+            
+            var sum = x + y;
             return sum;
         }
     }
