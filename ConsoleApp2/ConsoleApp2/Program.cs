@@ -14,6 +14,7 @@ namespace ConsoleApp2
             //edited in vs
             //add FeatureA class
             //code to call feature B
+            //add feature C
         }
     }
 }
