@@ -13,6 +13,7 @@ namespace ConsoleApp2
             //some change on git hub
             //edited in vs
             //add FeatureA class
+            //code to call feature B
             //add feature C
         }
     }
