@@ -12,6 +12,7 @@ namespace ConsoleApp2
         {
             //some change on git hub
             //edited in vs
+            //add FeatureA class
         }
     }
 }
